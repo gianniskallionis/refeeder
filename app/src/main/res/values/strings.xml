@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Refeeder</string>
+    <string-array name="activity_levels">       // βάζω λιστ για το κουμπι επιλογής δραστηριοτητας στο activity_input screen
+        <item>Ελαφρώς δραστήριος</item>
+        <item>Μέτρια δραστήριος</item>
+        <item>Πολύ δραστήριος</item>
+    </string-array>
+
+
+
+</resources>
